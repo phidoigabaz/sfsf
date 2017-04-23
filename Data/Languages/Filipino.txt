@@ -1,0 +1,107 @@
+; Filipino
+; Send me your language tranlation via https://www.facebook.com/SkinLOLmienphi
+
+; LoadingView
+STS_CONNECTING=Kumokonekta sa database. Mangyaring maghintay ng ilang sandali
+STS_CONNECT_ERROR=Hindi makakonekta sa server. Siguro ang server ay naka-overload o maintenance. Pakisubukang muli pagkalipas ng 10 segundo.
+STS_FILE_NOT_FOUND=Hindi ma-natagpuan ang [%s]. Mangyaring redownload at unzip tool
+STS_NEW_VERSION=Bagong bersyon%s magagamit. I-click ang OK upang i-download.
+STS_OLD_VERSION=Ang bersyon na ito ay masyadong luma. Mangyaring bisitahin ang http://modskinlol.vn homepage upang i-download ang bagong bersyon.
+STS_CHECKING=Kumokonekta sa server ... 
+
+; ActivationCodeView
+TXT_AC_TEXT1=Ang VIP skin (may pilak star icon) na nangangailangan ng activate gamitin.
+TXT_AC_TEXT2=Matapos makumpleto ang mga hakbang, ang programa ay awtomatikong makita at magpakita ng mensahe kung matagumpay isinaaktibo mo.
+TXT_AC_GUIDE_TITLE=Paano upang i-activate?
+TXT_AC_STEP1=Step 1:
+TXT_AC_STEP2=Step 2: Hanapin at i-click sa "Activate here" sa website.
+TXT_AC_ACTIVATE=I-click upang buksan ang pahina ng activation
+TXT_AC_WAITING=Hinihintay ang activation mula website ...
+TXT_ACTIVATION_SUCCESS=Matagumpay activation. I-click ang OK upang magpatuloy.
+TXT_AC_URL_TITLE=Activation URL (kung hindi ipinapakita ang mga popup):
+
+; MainView
+TXT_FREE_HEROES=LIBRENG KAMPEON SA PAG-IKOT
+TXT_HEROES=CHAMPIONS
+TXT_HUD=HUDS
+TXT_MAP=MAPS
+TXT_WARD=WARDS
+TXT_LOADSCREEN=LOAD SCREEN
+TXT_SOUND=SOUND PACK
+TXT_PAGE=Pahina:
+TXT_SEARCH=Paghahanap ...
+TXT_NEW_SKINS=BAGONG SKIN
+STS_TOTALSKIN=(Kabuuan: %d mga skin)
+
+; SkinView
+BTN_APPLY_SKIN=Baguhin ang skin
+BTN_DOWNLOAD=Download
+BTN_BACK=Bumalik
+BTN_STOP=Itigil
+BTN_BUG=Mag-ulat
+TXT_INFO=Impormasyon
+STS_APPLY_SKIN=I-click upang [Baguhin ang skin] upang magsimula!
+STS_DOWNLOAD_SKIN=I-click upang [I-download] upang piliin ang [%s - %s]
+STS_LOADING_SKIN=Nilo-load ang balat. Mangyaring maghintay ng ilang sandali ...
+STS_LOADING_SKIN_PERCENT=Nilo-load ang balat (%d%%). Mangyaring maghintay ng ilang sandali ...
+STS_LOADING_SKIN_ERROR=Hindi ma-load ang balat [%s - %s]
+STS_LOADING_IMAGE=Nagda-download ng preview ng larawan
+STS_LOADING_IMAGE_ERROR=Hindi makuha ang larawan ng preview
+STS_RUNNING_SKIN=-lock sa Balat=> Tool ay tumatakbo ...
+STS_RELOAD_GAME=Kailangan mong i-reload laro upang magsagawa ng pagbabago makakaapekto. I-reload ang laro ngayon?
+STS_DOWNLOADING_SKIN=Nagda-download ng balat (%d%%) ...
+STS_DOWNLOADING_IMAGE=Nagda-download ng preview ng larawan (%d%%) ...
+STS_DOWNLOADING_DATA=Nagda-download ng data (%d%%) ...
+TXT_SKIN=SKIN
+
+; SkinViewPopup
+BTN_OK=Mahusay
+STS_SUCCESS_SKIN=Ni %s balat ay nagbago mula sa [Default] kay [%s]
+TXT_NOTE=Ang ilang mga tala:
+TXT_TEXT1=Maglog-in ng laro upang masiyahan sa mga bagong balat.
+TXT_TEXT2=In-game, piliin ang default na balat ng mananalo.
+TXT_TEXT3=Dapat mong panatilihin ang tool na ito sa pagtakbo upang baguhin ang balat.
+
+; HudView
+BTN_APPLY_HUD=Ilapat
+STS_APPLY_HUD=I-click upang [Ilapat] upang baguhin ang HUD!
+STS_DOWNLOAD_HUD=I-click upang [I-download] upang piliin ang [%s]
+STS_RUNNING_HUD=[%s] -lock => Tool ay tumatakbo ...
+STS_SUCCESS_HUD=Ka pinili [%s]. Mag-login sa laro upang tamasahin bagong HUD!
+STS_DOWNLOADING_HUD=Nagda-download (%d %%) ...
+
+; MapView
+BTN_APPLY_MAP=Ilapat
+STS_APPLY_MAP=I-click upang [Ilapat] upang baguhin ang mapa!
+STS_DOWNLOAD_MAP=I-click upang [I-download] upang piliin ang [%s]
+STS_RUNNING_MAP=[%s] -lock => Tool ay tumatakbo ...
+STS_SUCCESS_MAP=Ka pinili [%s]. Mag-login sa laro upang masiyahan sa mga bagong mapa. Tandaan: Sa laro, dapat mong piliin ang graphic kalidad ng [Napakataas] upang ipakita-off ang lahat ng mga detalye ng Custom mapa
+STS_DOWNLOADING_MAP=Nagda-download ng %d%% (%4.2f/%4.2f MB) ...
+
+; LoadScreenView
+BTN_APPLY_LS=Ilapat
+STS_APPLY_LS=I-click upang [Ilapat] upang baguhin ang Load Screen!
+STS_DOWNLOAD_LS=I-click upang [I-download] upang piliin ang [%s]
+STS_RUNNING_LS=[%s] -lock => Tool ay tumatakbo ...
+STS_SUCCESS_LS=Ka pinili [%s]. Mag-login sa laro upang tamasahin bagong Load Screen!
+STS_DOWNLOADING_LS=Nagda-download (%d %%) ...
+
+; SoundView
+BTN_APPLY_SOUND=Ilapat
+STS_APPLY_SOUND=I-click upang [Ilapat] upang baguhin ang mapa!
+STS_DOWNLOAD_SOUND=I-click upang [I-download] upang piliin ang [%s]
+STS_RUNNING_SOUND=[%s] -lock => Tool ay tumatakbo ...
+STS_SUCCESS_SOUND=Ka pinili [%s]. Mag-login sa laro upang tamasahin bagong tunog pack!
+STS_DOWNLOADING_SOUND=Nagda-download ng %d%% (%4.2f/%4.2f MB) ...
+
+; WardView
+BTN_APPLY_WARD=Ilapat
+STS_APPLY_WARD=I-click upang [Ilapat] upang baguhin ang WARD!
+STS_DOWNLOAD_WARD=I-click upang [I-download] upang piliin ang [%s]
+STS_RUNNING_WARD=[%s] -lock => Tool ay tumatakbo ...
+STS_SUCCESS_WARD=Ka pinili [%s]. Mag-login sa laro upang tamasahin bagong WARD!
+STS_DOWNLOADING_WARD=Nagda-download (%d %%) ...
+
+; SearchView
+STS_NOTFOUND=Walang mga resulta
+STS_ANOTHERLINK=Maghanap gamit ang %s

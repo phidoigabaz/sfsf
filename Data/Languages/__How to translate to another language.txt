@@ -1,0 +1,5 @@
+1. Create your_language_file.txt (You can translate from English.txt as example, save as UTF-8 without BOM encoding)
+2. Put your_language_file.bmp (Your country flag)
+3. Open Manifest file with any TextEditor (ex: Notepad++) and insert your language at end-of-file
+4. Close Skin™ tool (if it running), back to main folder and delete Config.xml file
+5. Open tool and choose your language form the list

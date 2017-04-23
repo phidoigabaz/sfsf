@@ -1,0 +1,145 @@
+﻿; English
+; Last update: Apr 09, 2016
+; Send me your language tranlation via https://www.facebook.com/SkinLOLmienphi/
+
+
+; LoadingView
+STS_CONNECTING=Connecting to database. Please wait a moment
+STS_CONNECT_ERROR=Could not connect to server. Maybe the server is overloaded or maintenance. Please try again in 10 seconds.
+STS_FILE_NOT_FOUND=Could not found the [%s]. Please redownload and unzip tool
+STS_NEW_VERSION=New version %s available. Click OK to download.
+STS_OLD_VERSION=This version is too old. Please visit the homepage http://modskinlol.vn to download new version.
+STS_CHECKING=Connecting to server. Please wait a moment...
+STS_CHECKING_LOLVERSION=Checking League of Legends version ...
+STS_LOL_OUTOFDATE=The League of Legends game is out-of-date. Please update the game to latest version before run this tool.
+
+; ActivationCodeView
+TXT_AC_TEXT1=The VIP skins (with silver star icon) require the activate to use.
+TXT_AC_TEXT2=After completing these steps, the program will auto-detect and shows the message when completed.
+TXT_AC_GUIDE_TITLE=How to activate ?
+TXT_AC_STEP1=Step 1:
+TXT_AC_STEP2=Step 2: Find and click to "Activate here" on the website.
+TXT_AC_ACTIVATE=Click here to open activation page
+TXT_AC_WAITING=Waiting for activation from website...
+TXT_ACTIVATION_SUCCESS=Activation successful. Click OK to continue. 
+TXT_AC_URL_TITLE=Activation URL (if the popup not showed):
+
+; MainView
+TXT_FREE_HEROES=FREE CHAMPION ROTATION
+TXT_HEROES=CHAMPIONS
+TXT_HUD=HUD
+TXT_MAP=MAP
+TXT_WARD=WARD
+TXT_LOADSCREEN=LOAD SCREEN
+TXT_SOUND=SOUND
+TXT_ANNOUNCEMENT=ANNOUNCEMENT
+TXT_PAGE=Page:
+TXT_SEARCH=Search ...
+TXT_NEW_SKINS=NEW SKINS
+STS_TOTALSKIN=(Total: %d skins)
+TXT_OFFLINE_MODE=OFFLINE MODE
+
+; SkinView
+BTN_APPLY_SKIN=Apply
+BTN_DOWNLOAD=Download
+BTN_BACK=Back
+BTN_STOP=Stop
+BTN_BUG=Report
+TXT_INFO=Information
+STS_APPLY_SKIN=Click to [Apply] to change skin in-game !
+STS_DOWNLOAD_SKIN=Click to [Download] to choose [%s - %s]
+STS_LOADING_SKIN=Loading skin. Please wait a moment ...
+STS_LOADING_SKIN_PERCENT=Loading skin (%d%%). Please wait a moment ...
+STS_LOADING_SKIN_ERROR=Could not load skin [%s - %s]
+STS_LOADING_IMAGE=Downloading preview image
+STS_LOADING_IMAGE_ERROR=Could not get preview image
+STS_RUNNING_SKIN=Skin locked => Tool is running ...
+STS_RELOAD_GAME=You need reload game to take change affect. Reload game now ?
+STS_DOWNLOADING_SKIN=Downloading skin (%d%%) ...
+STS_DOWNLOADING_IMAGE=Downloading preview image (%d%%) ...
+STS_DOWNLOADING_DATA=Downloading data (%d%%) ...
+TXT_SKIN=SKIN
+TXT_SKIN_RIOT=From: Riot
+TXT_SKIN_CUSTOM=From: Other Authors
+TXT_SKIN_COMUNITY=From: Community
+TXT_SKIN_USER=From: User
+MSG_REPORT_SKIN=Please tell us your problem follow:\n- Error messages that you've seen ?\n- What champion ?\n- What skin name ?\n- And description more\n\nThank you!\n\nClick OK to continue ...
+
+; SkinViewPopup
+BTN_OK=Great
+STS_SUCCESS_SKIN=%s's default skin has been changed to [%s]
+TXT_NOTE=Some notes:
+TXT_TEXT1=Login to game to enjoy new skin.
+TXT_TEXT2=In-game, choose default skin of champion.
+TXT_TEXT3=You must keep this tool running to make it works.
+
+; HudView
+BTN_APPLY_HUD=Apply
+STS_APPLY_HUD=Click to [Apply] to change HUD !
+STS_DOWNLOAD_HUD=Click to [Download] to choose [%s]
+STS_RUNNING_HUD=[%s] locked => Tool is running ...
+STS_SUCCESS_HUD=You're chosen [%s]. Login to game to enjoy new HUD !
+STS_DOWNLOADING_HUD=Downloading (%d%%) ...
+
+
+; WardView
+BTN_APPLY_WARD=Apply
+STS_APPLY_WARD=Click to [Apply] to change WARD !
+STS_DOWNLOAD_WARD=Click to [Download] to choose [%s]
+STS_RUNNING_WARD=[%s] locked => Tool is running ...
+STS_SUCCESS_WARD=You're chosen [%s]. Login to game to enjoy new WARD !\n\nNote: Choose default ward skin before enter game.
+STS_DOWNLOADING_WARD=Downloading (%d%%) ...
+
+; MapView
+BTN_APPLY_MAP=Apply
+STS_APPLY_MAP=Click to [Apply] to change MAP !
+STS_DOWNLOAD_MAP=Click to [Download] to choose [%s]
+STS_RUNNING_MAP=[%s] locked => Tool is running ...
+STS_SUCCESS_MAP=You're chosen [%s]. Login to game to enjoy new map. Note: In the game, you must select the graphic quality as [Very High] to show off all of the details of Custom map
+STS_DOWNLOADING_MAP=Downloading %d%% (%4.2f/%4.2f MB) ...
+
+; LoadScreenView
+BTN_APPLY_LS=Apply
+STS_APPLY_LS=Click to [Apply] to change Load Screen !
+STS_DOWNLOAD_LS=Click to [Download] to choose [%s]
+STS_RUNNING_LS=[%s] locked => Tool is running ...
+STS_SUCCESS_LS=You're chosen [%s]. Login to game to enjoy new Load Screen !
+STS_DOWNLOADING_LS=Downloading (%d%%) ...
+
+; SoundView
+BTN_APPLY_SOUND=Apply
+STS_APPLY_SOUND=Click to [Apply] to change SOUND !
+STS_DOWNLOAD_SOUND=Click to [Download] to choose [%s]
+STS_RUNNING_SOUND=[%s] locked => Tool is running ...
+STS_SUCCESS_SOUND=You're chosen [%s]. Login to game to enjoy new Sound pack !
+STS_DOWNLOADING_SOUND=Downloading %d%% (%4.2f/%4.2f MB) ...
+
+; SearchView
+STS_NOTFOUND=No results match your search
+STS_ANOTHERLINK=Try search using %s
+
+
+; LoadScreen View
+BTN_ADD_LS=Add Image
+BTN_REM_LS=Remove
+
+; Add Image View
+TXT_ADDIMG_NAME=Name:
+TXT_ADDIMG_IMGPATH=Image file:
+STS_ADDIMG_PROCESSING=Processing:
+STS_ADDIMG_CREATING=Creating image. Wait a bit ...
+
+; RepairView
+BTN_REPAIR=REPAIR GAME NOW
+BTN_SKIP=Skip
+BTN_DOWNLOADING_STS=Downloading
+TXT_REPAIR_MSG=We detected your game has been modified by a 3rd-party software (eg Wooxy, SIU, ...). That will make our Mod Skin LOL™ works unstable or cause errors such as crashes, bugsplat, blue texture,...\n\nWe recommend repair your game client to original before using Mod Skin LOL™
+
+; ConnectionError View
+STS_CONNECTION_ERROR=Could not connect to Mod Skin LOL™ server !!\n\nEither check your connection and click 'Retry'. Or start Mod Skin LOL™ in 'Offline Mode'.
+BTN_RETRY_CONNECTION=RETRY
+BTN_OFFLINE_MODE=START IN OFFLINE MODE
+BTN_QUIT=Quit
+
+; Announcement View
+TXT_ANNOUNCEMENT_OPTION=Option

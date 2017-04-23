@@ -1,0 +1,31 @@
+; Vietnamese
+
+; MainView
+TXT_OFFLINE_MODE=CHẾ ĐỘ NGOẠI TUYẾN
+
+; LoadScreen View
+BTN_ADD_LS=Thêm ảnh
+BTN_REM_LS=Xóa bỏ
+
+; Add Image View
+TXT_ADDIMG_NAME=Đặt tên:
+TXT_ADDIMG_IMGPATH=File ảnh:
+STS_ADDIMG_PROCESSING=Đang xử lý:
+STS_ADDIMG_CREATING=Đang tạo ảnh. Hãy đợt một chút ...
+
+
+; ConnectionError View
+STS_CONNECTION_ERROR=Không thể kết nối đến máy chủ của Mod Skin LOL™ !!\n\nXin hãy kiểm tra kết nối của bạn. Hoặc chạy Mod Skin LOL™ ở 'Chế độ ngoại tuyến'.
+BTN_RETRY_CONNECTION=THỬ LẠI
+BTN_OFFLINE_MODE=CHẾ ĐỘ NGOẠI TUYẾN
+BTN_QUIT=Thoát
+
+; Announcement View
+TXT_ANNOUNCEMENT_OPTION=Lựa chọn
+TXT_ANNOUNCEMENT_HEAD1=Thông báo
+TXT_ANNOUNCEMENT_HEAD2=Nhấp chuột để sửa
+STS_ANNOUNCEMENT_APPLY=Nhấn nút [Áp dụng] để lựa chọn và kích hoạt [%s]
+STS_ANNOUNCEMENT_CANCEL=Nhấn nút [Hủy bỏ] để phục hồi về mặc định.
+STS_ANNOUNCEMENT_APPLYING=Đang xử lý. Xin đợi trong giây lát...
+STS_ANNOUNCEMENT_SUCCESS=Thông báo trong game đã được thay đổi thành công. Hãy vào game và tận hưởng.
+STS_ANNOUNCEMENT_ERROR=Lỗi chưa xác định. Không thể thay đổi thông báo!
